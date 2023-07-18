@@ -1,0 +1,25 @@
+{
+  "name": "paquete-json",
+  "version": "1.0.0",
+  "description": "Este es un proyecto de javascript con Node ",
+  "main": "index.js",
+  "scripts": {
+    "saludar": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noel1kt/Node-repository.git"
+  },
+  "keywords": [
+    "holamundo",
+    "first",
+    "project"
+  ],
+  "author": "Noel Mazariegos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Noel1kt/Node-repository/issues"
+  },
+  "homepage": "https://github.com/Noel1kt/Node-repository#readme"
+}
